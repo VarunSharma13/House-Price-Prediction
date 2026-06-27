@@ -30,7 +30,7 @@ House-Price-Prediction/
 ├── house price prediction.ipynb   # Main notebook
 ├── housing.csv                    # Dataset
 ├── README.md                      # Project documentation
-└── requirements.txt               # Python dependencies (optional)
+└── requirements.txt               # Python dependencies
 ```
 
 ---
