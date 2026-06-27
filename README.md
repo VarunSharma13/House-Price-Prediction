@@ -217,7 +217,8 @@ Contributions are welcome!
 
 ## 👨‍💻 Author
 
-**Varun**
+**Varun Sharma**
+
 **INTERN ID-CITS5710**
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
